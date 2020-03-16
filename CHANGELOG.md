@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Add release date.
 
-* TODO: Describe initial release.
+* First release provides 500 quotes which will be extended in the future.
