@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quotes/quotes.dart';
+import 'package:quotes/quotes.dart';      //  Importing the quotes library 
 
 void main() => runApp(MyApp());
 
@@ -11,6 +11,8 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: FlatButton(child: Text("CLICK"),onPressed: (){
           
+
+              //Using Quotes Object to get a quote
               //Getting the First quote that is same everytime
                 print(Quotes.getFirst().getId());
                 print(Quotes.getFirst().getContent());

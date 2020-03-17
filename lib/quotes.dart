@@ -6,20 +6,29 @@ import 'package:quotes/src/quotes.dart';
 
 class Quotes extends StatefulWidget {
 
+
+  //Returns a random index
   static int _getRandomIndex()
   {
     return new Random.secure().nextInt(allquotes.length);
   }
+
+  //Returns first quote
 
   static Quote getFirst()
   {
     return new Quote.fromJson(allquotes[0]);
   }
 
+    //Returns last quote
+
+
   static Quote getLast()
   {
       return   new Quote.fromJson(allquotes[allquotes.length-1]);
   }
+
+  //Returns random quote
 
   static Quote getRandom()
   {

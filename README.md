@@ -26,11 +26,11 @@ To use this package :
 ### How to use
 
 ```dart
-Import the Package 
+// Import the Package 
 
 import 'package:quotes/quotes.dart';
 
-Then you can use it :
+//Then you can use it :
 
 class MyApp extends StatelessWidget {
   @override
