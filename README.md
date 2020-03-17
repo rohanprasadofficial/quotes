@@ -1,6 +1,6 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg)](https://www.buymeacoffee.com/rohanprasad)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/logarithm4?locale.x=en_GB)
-<!-- [![flutter_whatsnew](https://img.shields.io/pub/v/easy_web_view.svg)](https://pub.dev/packages/easy_web_view) -->
+
 
 
 # quotes
@@ -92,6 +92,8 @@ Two things to PR on:
 ### Created & Maintained By
 
 [Rohan Prasad](https://github.com/rohanprasadofficial)
+
+#### Show some :heart: and star the repo to support the project
 
 
 ## Getting Started
