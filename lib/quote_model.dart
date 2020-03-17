@@ -29,7 +29,7 @@ class Quote {
    String getAuthorId() { 
     return authorId;
   }
-  List<String> getTags() { 
+  List getTags() { 
     return tags;
   }
   int getLength()
