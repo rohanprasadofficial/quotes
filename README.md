@@ -1,5 +1,7 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg)](https://www.buymeacoffee.com/rohanprasad)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/logarithm4?locale.x=en_GB)
+[![Donate](https://img.shields.io/pub/v/quotes)](https://pub.dev/packages/quotes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 
