@@ -1,7 +1,8 @@
 const List allquotes = [
   {
     "_id": "gcPBYtDU718",
-    "content": "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
+    "content":
+        "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
     "author": "A. A. Milne",
     "authorId": "Bklxbckhy5EL",
     "tags": ["success"],
@@ -41,7 +42,8 @@ const List allquotes = [
   },
   {
     "_id": "4VAygdJRc30f",
-    "content": "You have to do your own growing no matter how tall your grandfather was.",
+    "content":
+        "You have to do your own growing no matter how tall your grandfather was.",
     "author": "Abraham Lincoln",
     "authorId": "1jVq35e_unPn",
     "tags": ["success", "technology", "business"],
@@ -49,7 +51,8 @@ const List allquotes = [
   },
   {
     "_id": "FD-42E9YmvjZ",
-    "content": "Most people are about as happy as they make up their minds to be.",
+    "content":
+        "Most people are about as happy as they make up their minds to be.",
     "author": "Abraham Lincoln",
     "authorId": "1jVq35e_unPn",
     "tags": ["love", "inspirational"],
@@ -57,7 +60,8 @@ const List allquotes = [
   },
   {
     "_id": "6yb19ScOwb1B",
-    "content": "Most folks are about as happy as they make up their minds to be.",
+    "content":
+        "Most folks are about as happy as they make up their minds to be.",
     "author": "Abraham Lincoln",
     "authorId": "1jVq35e_unPn",
     "tags": ["life", "famous-quotes"],
@@ -73,7 +77,8 @@ const List allquotes = [
   },
   {
     "_id": "xsqsGVyRJhhO",
-    "content": "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
+    "content":
+        "Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.",
     "author": "Alan Cohen",
     "authorId": "KCCkOqH3Tyox",
     "tags": ["religion"],
@@ -129,7 +134,8 @@ const List allquotes = [
   },
   {
     "_id": "wIkLE_IqZEKj",
-    "content": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+    "content":
+        "Life is like riding a bicycle. To keep your balance you must keep moving.",
     "author": "Albert Einstein",
     "authorId": "4l5cJjYdtvoU",
     "tags": ["success", "art"],
@@ -137,7 +143,8 @@ const List allquotes = [
   },
   {
     "_id": "mb_BeGyFGJPn",
-    "content": "Feeling and longing are the motive forces behind all human endeavor and human creations.",
+    "content":
+        "Feeling and longing are the motive forces behind all human endeavor and human creations.",
     "author": "Albert Einstein",
     "authorId": "4l5cJjYdtvoU",
     "tags": ["love", "science"],
@@ -153,7 +160,8 @@ const List allquotes = [
   },
   {
     "_id": "j4O9bHdcNeMw",
-    "content": "We should all be thankful for those people who rekindle the inner spirit.",
+    "content":
+        "We should all be thankful for those people who rekindle the inner spirit.",
     "author": "Albert Schweitzer",
     "authorId": "DwCRDw-fBNQT",
     "tags": ["science", "art", "famous-quotes"],
@@ -161,7 +169,8 @@ const List allquotes = [
   },
   {
     "_id": "I5ukLx6U4baI",
-    "content": "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
+    "content":
+        "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.",
     "author": "Albert Schweitzer",
     "authorId": "DwCRDw-fBNQT",
     "tags": ["science", "religion"],
@@ -169,7 +178,8 @@ const List allquotes = [
   },
   {
     "_id": "qcLN8BFZ9vwU",
-    "content": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+    "content":
+        "There is only one corner of the universe you can be certain of improving, and that's your own self.",
     "author": "Aldous Huxley",
     "authorId": "3yFvdum681Xl",
     "tags": ["science"],
@@ -177,7 +187,8 @@ const List allquotes = [
   },
   {
     "_id": "7GoW_70vQYAp",
-    "content": "Experience is not what happens to a man. It is what a man does with what happens to him.",
+    "content":
+        "Experience is not what happens to a man. It is what a man does with what happens to him.",
     "author": "Aldous Huxley",
     "authorId": "3yFvdum681Xl",
     "tags": ["success"],
@@ -185,7 +196,8 @@ const List allquotes = [
   },
   {
     "_id": "j-MRRZYnhe6v",
-    "content": "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
+    "content":
+        "Learn all you can from the mistakes of others. You won't have time to make them all yourself.",
     "author": "Alfred Sheinwold",
     "authorId": "gqHfss8xRFho",
     "tags": ["art", "love", "friendship"],
@@ -209,7 +221,8 @@ const List allquotes = [
   },
   {
     "_id": "LLjhBa-oeWMN",
-    "content": "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
+    "content":
+        "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.",
     "author": "Anais Nin",
     "authorId": "OtFSS3uf0eVK",
     "tags": ["famous-quotes", "love"],
@@ -217,7 +230,8 @@ const List allquotes = [
   },
   {
     "_id": "Vx1IBt-NEtVR",
-    "content": "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
+    "content":
+        "Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.",
     "author": "Anais Nin",
     "authorId": "OtFSS3uf0eVK",
     "tags": ["art", "technology", "business"],
@@ -233,7 +247,8 @@ const List allquotes = [
   },
   {
     "_id": "nICmly96gXXR",
-    "content": "They say that time changes things, but you actually have to change them yourself.",
+    "content":
+        "They say that time changes things, but you actually have to change them yourself.",
     "author": "Andy Warhol",
     "authorId": "gGm0YbDMpHok",
     "tags": ["motivational"],
@@ -241,7 +256,8 @@ const List allquotes = [
   },
   {
     "_id": "rE1xhZoJbMer",
-    "content": "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
+    "content":
+        "All our talents increase in the using, and the every faculty, both good and bad, strengthen by exercise.",
     "author": "Anne Bronte",
     "authorId": "_dIK8j-7MZiD",
     "tags": ["famous-quotes", "love"],
@@ -249,7 +265,8 @@ const List allquotes = [
   },
   {
     "_id": "YuUbtPhvp_UA",
-    "content": "We all live with the objective of being happy; our lives are all different and yet the same.",
+    "content":
+        "We all live with the objective of being happy; our lives are all different and yet the same.",
     "author": "Anne Frank",
     "authorId": "lVEQE5zVZEcn",
     "tags": ["technology", "religion"],
@@ -257,7 +274,8 @@ const List allquotes = [
   },
   {
     "_id": "HB4GI-6unBBH",
-    "content": "Life is a process. We are a process. The universe is a process.",
+    "content":
+        "Life is a process. We are a process. The universe is a process.",
     "author": "Anne Schaef",
     "authorId": "L_bILSMpwqcq",
     "tags": ["success"],
@@ -281,7 +299,8 @@ const List allquotes = [
   },
   {
     "_id": "mHIjzsafhiwT",
-    "content": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.",
+    "content":
+        "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.",
     "author": "Anthony Robbins",
     "authorId": "byncNuR2KNAM",
     "tags": ["inspirational", "art", "religion"],
@@ -289,7 +308,8 @@ const List allquotes = [
   },
   {
     "_id": "B_G702lcuU8i",
-    "content": "It is only with the heart that one can see rightly, what is essential is invisible to the eye.",
+    "content":
+        "It is only with the heart that one can see rightly, what is essential is invisible to the eye.",
     "author": "Antoine de Saint-Exupery",
     "authorId": "7gX2BtZ4k-8T",
     "tags": ["inspirational", "life", "literature"],
@@ -313,7 +333,8 @@ const List allquotes = [
   },
   {
     "_id": "wdyEPy2kTy1b",
-    "content": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "content":
+        "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
     "author": "Aristotle",
     "authorId": "Jp9ti7_AL7cr",
     "tags": ["friendship", "art", "famous-quotes"],
@@ -321,7 +342,8 @@ const List allquotes = [
   },
   {
     "_id": "7mxkrx2g1IC",
-    "content": "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+    "content":
+        "Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
     "author": "Arthur Conan Doyle",
     "authorId": "IWUsji02C5GN",
     "tags": ["business"],
@@ -329,7 +351,8 @@ const List allquotes = [
   },
   {
     "_id": "3oTWw2l-DlbS",
-    "content": "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.",
+    "content":
+        "Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.",
     "author": "Arthur Rubinstein",
     "authorId": "6eyGRhxEgMFG",
     "tags": ["business", "friendship"],
@@ -337,7 +360,8 @@ const List allquotes = [
   },
   {
     "_id": "rtiLt68C56mp",
-    "content": "Every man takes the limits of his own field of vision for the limits of the world.",
+    "content":
+        "Every man takes the limits of his own field of vision for the limits of the world.",
     "author": "Arthur Schopenhauer",
     "authorId": "CZ5NNLm6bQ6S",
     "tags": ["business"],
@@ -345,7 +369,8 @@ const List allquotes = [
   },
   {
     "_id": "K3vInR19eB0a",
-    "content": "The world is a book, and those who do not travel read only a page.",
+    "content":
+        "The world is a book, and those who do not travel read only a page.",
     "author": "Augustinus Sanctus",
     "authorId": "ofSspe5Ed1xX",
     "tags": ["art", "friendship"],
@@ -369,7 +394,8 @@ const List allquotes = [
   },
   {
     "_id": "YdM4pg9LyQNK",
-    "content": "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
+    "content":
+        "Don't wait for your feelings to change to take the action. Take the action and your feelings will change.",
     "author": "Barbara Baron",
     "authorId": "ZZ9xCXaS-fYF",
     "tags": ["technology", "business"],
@@ -377,7 +403,8 @@ const List allquotes = [
   },
   {
     "_id": "9I_F9WiKwci4",
-    "content": "The first step to getting the things you want out of life is this: decide what you want.",
+    "content":
+        "The first step to getting the things you want out of life is this: decide what you want.",
     "author": "Ben Stein",
     "authorId": "YSQmA3RewGnR",
     "tags": ["love"],
@@ -393,7 +420,8 @@ const List allquotes = [
   },
   {
     "_id": "1TEVEDySkLBo",
-    "content": "Action may not always bring happiness; but there is no happiness without action.",
+    "content":
+        "Action may not always bring happiness; but there is no happiness without action.",
     "author": "Benjamin Disraeli",
     "authorId": "Bkohj4lG3j2Q",
     "tags": ["science"],
@@ -401,7 +429,8 @@ const List allquotes = [
   },
   {
     "_id": "WUqOvwbQ1HZa",
-    "content": "Through perseverance many people win success out of what seemed destined to be certain failure.",
+    "content":
+        "Through perseverance many people win success out of what seemed destined to be certain failure.",
     "author": "Benjamin Disraeli",
     "authorId": "Bkohj4lG3j2Q",
     "tags": ["famous-quotes", "art"],
@@ -409,7 +438,8 @@ const List allquotes = [
   },
   {
     "_id": "zvTvWEGOqfpI",
-    "content": "Never apologize for showing feelings. When you do so, you apologize for the truth.",
+    "content":
+        "Never apologize for showing feelings. When you do so, you apologize for the truth.",
     "author": "Benjamin Disraeli",
     "authorId": "Bkohj4lG3j2Q",
     "tags": ["art"],
@@ -457,7 +487,8 @@ const List allquotes = [
   },
   {
     "_id": "iy40trbc3y-",
-    "content": "Life isn't about finding yourself. Life is about creating yourself.",
+    "content":
+        "Life isn't about finding yourself. Life is about creating yourself.",
     "author": "Bernard Shaw",
     "authorId": "5TGPiANwITkM",
     "tags": ["literature", "success"],
@@ -465,7 +496,8 @@ const List allquotes = [
   },
   {
     "_id": "F-wnRFzqE6yS",
-    "content": "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
+    "content":
+        "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
     "author": "Bernard Shaw",
     "authorId": "5TGPiANwITkM",
     "tags": ["literature", "famous-quotes", "motivational"],
@@ -513,7 +545,8 @@ const List allquotes = [
   },
   {
     "_id": "7bLUJzXrKl0",
-    "content": "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
+    "content":
+        "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
     "author": "Brian Tracy",
     "authorId": "PhmrAlnBtm3Q",
     "tags": ["religion", "love", "motivational"],
@@ -521,7 +554,8 @@ const List allquotes = [
   },
   {
     "_id": "no5usXNrJsPL",
-    "content": "If you spend too much time thinking about a thing, you'll never get it done.",
+    "content":
+        "If you spend too much time thinking about a thing, you'll never get it done.",
     "author": "Bruce Lee",
     "authorId": "HsvVW9dphK-W",
     "tags": ["science"],
@@ -529,7 +563,8 @@ const List allquotes = [
   },
   {
     "_id": "zIuTEf3js4yx",
-    "content": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+    "content":
+        "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
     "author": "Bruce Lee",
     "authorId": "HsvVW9dphK-W",
     "tags": ["social-justice", "success"],
@@ -537,7 +572,8 @@ const List allquotes = [
   },
   {
     "_id": "hBnZjIWZkrce",
-    "content": "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
+    "content":
+        "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
     "author": "Bruce Lee",
     "authorId": "HsvVW9dphK-W",
     "tags": ["love"],
@@ -545,7 +581,8 @@ const List allquotes = [
   },
   {
     "_id": "P-dmU-b1k4od",
-    "content": "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
+    "content":
+        "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.",
     "author": "Bruce Lee",
     "authorId": "HsvVW9dphK-W",
     "tags": ["love"],
@@ -553,7 +590,8 @@ const List allquotes = [
   },
   {
     "_id": "uu-OyXVO94dM",
-    "content": "Take no thought of who is right or wrong or who is better than. Be not for or against.",
+    "content":
+        "Take no thought of who is right or wrong or who is better than. Be not for or against.",
     "author": "Bruce Lee",
     "authorId": "HsvVW9dphK-W",
     "tags": ["religion", "love", "literature"],
@@ -561,7 +599,8 @@ const List allquotes = [
   },
   {
     "_id": "Dfgd41ozsqUQ",
-    "content": "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
+    "content":
+        "There is nothing in a caterpillar that tells you it's going to be a butterfly.",
     "author": "Buckminster Fuller",
     "authorId": "yXQOkY9qndtQ",
     "tags": ["technology"],
@@ -625,7 +664,8 @@ const List allquotes = [
   },
   {
     "_id": "ua09UsXpW-T",
-    "content": "In separateness lies the world's great misery, in compassion lies the world's true strength.",
+    "content":
+        "In separateness lies the world's great misery, in compassion lies the world's true strength.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["religion"],
@@ -633,7 +673,8 @@ const List allquotes = [
   },
   {
     "_id": "LA_Lza2L9sZ8",
-    "content": "Happiness comes when your work and words are of benefit to yourself and others.",
+    "content":
+        "Happiness comes when your work and words are of benefit to yourself and others.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["love"],
@@ -641,7 +682,8 @@ const List allquotes = [
   },
   {
     "_id": "QWn5VEG6Km4Y",
-    "content": "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
+    "content":
+        "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["social-justice", "technology", "art"],
@@ -649,7 +691,8 @@ const List allquotes = [
   },
   {
     "_id": "eASfd5zbMnuL",
-    "content": "If you light a lamp for somebody, it will also brighten your path.",
+    "content":
+        "If you light a lamp for somebody, it will also brighten your path.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["social-justice", "science", "business"],
@@ -657,7 +700,8 @@ const List allquotes = [
   },
   {
     "_id": "iflaS3xxReTu",
-    "content": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+    "content":
+        "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["inspirational", "art"],
@@ -673,7 +717,8 @@ const List allquotes = [
   },
   {
     "_id": "EOcfhOK4hqM6",
-    "content": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+    "content":
+        "Three things cannot be long hidden: the sun, the moon, and the truth.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["social-justice"],
@@ -681,7 +726,8 @@ const List allquotes = [
   },
   {
     "_id": "ZEQMF3uBxU3N",
-    "content": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+    "content":
+        "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["business", "friendship"],
@@ -689,7 +735,8 @@ const List allquotes = [
   },
   {
     "_id": "Qx01wr17YUPd",
-    "content": "You will not be punished for your anger, you will be punished by your anger.",
+    "content":
+        "You will not be punished for your anger, you will be punished by your anger.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["motivational", "famous-quotes", "literature"],
@@ -697,7 +744,8 @@ const List allquotes = [
   },
   {
     "_id": "yA39DAIeQjJU",
-    "content": "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
+    "content":
+        "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["inspirational", "famous-quotes"],
@@ -705,7 +753,8 @@ const List allquotes = [
   },
   {
     "_id": "uUaSEwJf8mx5",
-    "content": "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
+    "content":
+        "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["science", "success", "motivational"],
@@ -713,7 +762,8 @@ const List allquotes = [
   },
   {
     "_id": "HIAcW6Rzrvhq",
-    "content": "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.",
+    "content":
+        "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["science", "technology"],
@@ -721,7 +771,8 @@ const List allquotes = [
   },
   {
     "_id": "64S0s2deS3hH",
-    "content": "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
+    "content":
+        "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": ["love"],
@@ -777,7 +828,8 @@ const List allquotes = [
   },
   {
     "_id": "6-HZliE1aV6q",
-    "content": "Give thanks for the rain of life that propels us to reach new horizons.",
+    "content":
+        "Give thanks for the rain of life that propels us to reach new horizons.",
     "author": "Byron Pulsifer",
     "authorId": "lpFflDY4f0G7",
     "tags": ["art"],
@@ -785,7 +837,8 @@ const List allquotes = [
   },
   {
     "_id": "FzNg0Rycrg2d",
-    "content": "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
+    "content":
+        "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
     "author": "Byron Pulsifer",
     "authorId": "lpFflDY4f0G7",
     "tags": ["social-justice"],
@@ -793,7 +846,8 @@ const List allquotes = [
   },
   {
     "_id": "fKXHGgPaKsuo",
-    "content": "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
+    "content":
+        "Your destiny isn't just fate; it is how you use your own developed abilities to get what you want.",
     "author": "Byron Pulsifer",
     "authorId": "lpFflDY4f0G7",
     "tags": ["success"],
@@ -801,7 +855,8 @@ const List allquotes = [
   },
   {
     "_id": "Y7RZf8gl-g80",
-    "content": "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
+    "content":
+        "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
     "author": "Byron Pulsifer",
     "authorId": "lpFflDY4f0G7",
     "tags": ["motivational", "business"],
@@ -809,7 +864,8 @@ const List allquotes = [
   },
   {
     "_id": "8nrO288UJcyl",
-    "content": "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
+    "content":
+        "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
     "author": "Byron Pulsifer",
     "authorId": "lpFflDY4f0G7",
     "tags": ["inspirational"],
@@ -817,7 +873,8 @@ const List allquotes = [
   },
   {
     "_id": "X7XGpkqGjXMO",
-    "content": "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
+    "content":
+        "Many people think of prosperity that concerns money only to forget that true prosperity is of the mind.",
     "author": "Byron Pulsifer",
     "authorId": "lpFflDY4f0G7",
     "tags": ["life", "business", "friendship"],
@@ -825,7 +882,8 @@ const List allquotes = [
   },
   {
     "_id": "DZAB6Sbma-8h",
-    "content": "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.",
+    "content":
+        "Today, give a stranger a smile without waiting for it may be the joy they need to have a great day.",
     "author": "Byron Pulsifer",
     "authorId": "lpFflDY4f0G7",
     "tags": ["art"],
@@ -833,7 +891,8 @@ const List allquotes = [
   },
   {
     "_id": "O6MZy0_KxKmK",
-    "content": "Sadness may be part of life but there is no need to let it dominate your entire life.",
+    "content":
+        "Sadness may be part of life but there is no need to let it dominate your entire life.",
     "author": "Byron Pulsifer",
     "authorId": "lpFflDY4f0G7",
     "tags": ["motivational"],
@@ -841,7 +900,8 @@ const List allquotes = [
   },
   {
     "_id": "Nyp6A9QFaaPK",
-    "content": "We cannot do everything at once, but we can do something at once.",
+    "content":
+        "We cannot do everything at once, but we can do something at once.",
     "author": "Calvin Coolidge",
     "authorId": "-I1tAq_eYVZw",
     "tags": ["technology", "success"],
@@ -873,7 +933,8 @@ const List allquotes = [
   },
   {
     "_id": "Q2q1BCz3y1kJ",
-    "content": "The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.",
+    "content":
+        "The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts.",
     "author": "Charles Darwin",
     "authorId": "2Gi6aN2YYTSy",
     "tags": ["motivational"],
@@ -881,7 +942,8 @@ const List allquotes = [
   },
   {
     "_id": "C0F566MEP904",
-    "content": "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
+    "content":
+        "Don't leave a stone unturned. It's always something, to know you have done the most you could.",
     "author": "Charles Dickens",
     "authorId": "X-yiUV76HHXQ",
     "tags": ["motivational", "science"],
@@ -897,7 +959,8 @@ const List allquotes = [
   },
   {
     "_id": "qr3c9QgCj9oh",
-    "content": "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
+    "content":
+        "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
     "author": "Charles Schwab",
     "authorId": "Xgc5e2cdKPh4",
     "tags": ["art", "inspirational"],
@@ -905,7 +968,8 @@ const List allquotes = [
   },
   {
     "_id": "1zwttiyWIIWa",
-    "content": "Life is so constructed that an event does not, cannot, will not, match the expectation.",
+    "content":
+        "Life is so constructed that an event does not, cannot, will not, match the expectation.",
     "author": "Charlotte Bronte",
     "authorId": "UTNzVPkhKdz2",
     "tags": ["success", "technology"],
@@ -913,7 +977,8 @@ const List allquotes = [
   },
   {
     "_id": "dnMAy43jVtyZ",
-    "content": "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
+    "content":
+        "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
     "author": "Charlotte Gilman",
     "authorId": "X689uREI3t4I",
     "tags": ["religion"],
@@ -937,7 +1002,8 @@ const List allquotes = [
   },
   {
     "_id": "DgLNVXkFaBXx",
-    "content": "Tension is who you think you should be. Relaxation is who you are.",
+    "content":
+        "Tension is who you think you should be. Relaxation is who you are.",
     "author": "Chinese proverb",
     "authorId": "0y2UUzFhiPQw",
     "tags": ["motivational"],
@@ -1009,7 +1075,8 @@ const List allquotes = [
   },
   {
     "_id": "f_XI4Zyteg9Z",
-    "content": "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
+    "content":
+        "Reviewing what you have learned and learning anew, you are fit to be a teacher.",
     "author": "Confucius",
     "authorId": "DuXdRlE4Hptg",
     "tags": ["business", "science"],
@@ -1017,7 +1084,8 @@ const List allquotes = [
   },
   {
     "_id": "RALz7GBs4TIl",
-    "content": "The superior man is satisfied and composed; the mean man is always full of distress.",
+    "content":
+        "The superior man is satisfied and composed; the mean man is always full of distress.",
     "author": "Confucius",
     "authorId": "DuXdRlE4Hptg",
     "tags": ["business", "religion"],
@@ -1025,7 +1093,8 @@ const List allquotes = [
   },
   {
     "_id": "nCOm2WIfghU-",
-    "content": "It does not matter how slowly you go as long as you do not stop.",
+    "content":
+        "It does not matter how slowly you go as long as you do not stop.",
     "author": "Confucius",
     "authorId": "DuXdRlE4Hptg",
     "tags": ["social-justice"],
@@ -1033,7 +1102,8 @@ const List allquotes = [
   },
   {
     "_id": "1AAzgQ5Mf4Jd",
-    "content": "To study and not think is a waste. To think and not study is dangerous.",
+    "content":
+        "To study and not think is a waste. To think and not study is dangerous.",
     "author": "Confucius",
     "authorId": "DuXdRlE4Hptg",
     "tags": ["science", "success", "friendship"],
@@ -1041,7 +1111,8 @@ const List allquotes = [
   },
   {
     "_id": "SD3PvHaMfCL_",
-    "content": "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
+    "content":
+        "I will not be concerned at other men is not knowing me;I will be concerned at my own want of ability.",
     "author": "Confucius",
     "authorId": "DuXdRlE4Hptg",
     "tags": ["love", "friendship", "success"],
@@ -1049,7 +1120,8 @@ const List allquotes = [
   },
   {
     "_id": "DNR0HinAoKBK",
-    "content": "Choose a job you love, and you will never have to work a day in your life.",
+    "content":
+        "Choose a job you love, and you will never have to work a day in your life.",
     "author": "Confucius",
     "authorId": "DuXdRlE4Hptg",
     "tags": ["inspirational"],
@@ -1057,7 +1129,8 @@ const List allquotes = [
   },
   {
     "_id": "_tLQ1me4XsrX",
-    "content": "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
+    "content":
+        "When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.",
     "author": "Confucius",
     "authorId": "DuXdRlE4Hptg",
     "tags": ["inspirational", "technology"],
@@ -1065,7 +1138,8 @@ const List allquotes = [
   },
   {
     "_id": "sX8uC6l6zyT",
-    "content": "When performance exceeds ambition, the overlap is called success.",
+    "content":
+        "When performance exceeds ambition, the overlap is called success.",
     "author": "Cullen Hightower",
     "authorId": "EES3XprdKeMB",
     "tags": ["love"],
@@ -1081,7 +1155,8 @@ const List allquotes = [
   },
   {
     "_id": "Z7xdAEm5qzF",
-    "content": "I believe that we are fundamentally the same and have the same basic potential.",
+    "content":
+        "I believe that we are fundamentally the same and have the same basic potential.",
     "author": "Dalai Lama",
     "authorId": "FZPG-yDbq11u",
     "tags": ["literature"],
@@ -1089,7 +1164,8 @@ const List allquotes = [
   },
   {
     "_id": "9jNMvdLs1Bo8",
-    "content": "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
+    "content":
+        "Love and compassion open our own inner life, reducing stress, distrust and loneliness.",
     "author": "Dalai Lama",
     "authorId": "FZPG-yDbq11u",
     "tags": ["social-justice"],
@@ -1097,7 +1173,8 @@ const List allquotes = [
   },
   {
     "_id": "IJl1fjhhN0NW",
-    "content": "More often than not, anger is actually an indication of weakness rather than of strength.",
+    "content":
+        "More often than not, anger is actually an indication of weakness rather than of strength.",
     "author": "Dalai Lama",
     "authorId": "FZPG-yDbq11u",
     "tags": ["success"],
@@ -1105,7 +1182,8 @@ const List allquotes = [
   },
   {
     "_id": "1A2CltaXKM4T",
-    "content": "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
+    "content":
+        "By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.",
     "author": "Dalai Lama",
     "authorId": "FZPG-yDbq11u",
     "tags": ["famous-quotes"],
@@ -1113,7 +1191,8 @@ const List allquotes = [
   },
   {
     "_id": "13sb8m-daZIe",
-    "content": "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
+    "content":
+        "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
     "author": "Dalai Lama",
     "authorId": "FZPG-yDbq11u",
     "tags": ["inspirational", "religion"],
@@ -1121,7 +1200,8 @@ const List allquotes = [
   },
   {
     "_id": "JQO1FkCf9iqx",
-    "content": "Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?",
+    "content":
+        "Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?",
     "author": "Dalai Lama",
     "authorId": "FZPG-yDbq11u",
     "tags": ["business", "art"],
@@ -1129,7 +1209,8 @@ const List allquotes = [
   },
   {
     "_id": "lYpBTcWJ51yb",
-    "content": "With the realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+    "content":
+        "With the realization of ones own potential and self-confidence in ones ability, one can build a better world.",
     "author": "Dalai Lama",
     "authorId": "FZPG-yDbq11u",
     "tags": ["business", "science"],
@@ -1137,7 +1218,8 @@ const List allquotes = [
   },
   {
     "_id": "t0AV3SN8Yi5X",
-    "content": "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
+    "content":
+        "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
     "author": "Dalai Lama",
     "authorId": "FZPG-yDbq11u",
     "tags": ["inspirational", "art", "friendship"],
@@ -1145,7 +1227,8 @@ const List allquotes = [
   },
   {
     "_id": "urfgF2XwZ78f",
-    "content": "The secret to a rich life is to have more beginnings than endings.",
+    "content":
+        "The secret to a rich life is to have more beginnings than endings.",
     "author": "Dave Weinbaum",
     "authorId": "JVNSG6uNqQ8F",
     "tags": ["love", "science", "life"],
@@ -1153,7 +1236,8 @@ const List allquotes = [
   },
   {
     "_id": "Ni-hL9T8nwx7",
-    "content": "We see things not as they are, but as we are. Our perception is shaped by our previous experiences.",
+    "content":
+        "We see things not as they are, but as we are. Our perception is shaped by our previous experiences.",
     "author": "Dennis Kimbro",
     "authorId": "8iNMkYsp0IRJ",
     "tags": ["business", "literature", "love"],
@@ -1161,7 +1245,8 @@ const List allquotes = [
   },
   {
     "_id": "QOPsdtzvmCgE",
-    "content": "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+    "content":
+        "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
     "author": "Desiderius Erasmus",
     "authorId": "GACA3RxIt1Lc",
     "tags": ["life", "inspirational", "success"],
@@ -1169,7 +1254,8 @@ const List allquotes = [
   },
   {
     "_id": "sWOTW2xzNQgJ",
-    "content": "A man of ability and the desire to accomplish something can do anything.",
+    "content":
+        "A man of ability and the desire to accomplish something can do anything.",
     "author": "Donald Kircher",
     "authorId": "CdE7XEqBmnzi",
     "tags": ["famous-quotes"],
@@ -1185,7 +1271,8 @@ const List allquotes = [
   },
   {
     "_id": "Aw-f-dTKVi-7",
-    "content": "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
+    "content":
+        "Money was never a big motivation for me, except as a way to keep score. The real excitement is playing the game.",
     "author": "Donald Trump",
     "authorId": "dBi_hXiBS7oF",
     "tags": ["religion", "love"],
@@ -1201,7 +1288,8 @@ const List allquotes = [
   },
   {
     "_id": "5i1KoF3c_oxs",
-    "content": "It is not uncommon for people to spend their whole life waiting to start living.",
+    "content":
+        "It is not uncommon for people to spend their whole life waiting to start living.",
     "author": "Eckhart Tolle",
     "authorId": "hx3L0zmPi_k-",
     "tags": ["motivational", "success"],
@@ -1209,7 +1297,8 @@ const List allquotes = [
   },
   {
     "_id": "ZVtogaEjXawA",
-    "content": "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
+    "content":
+        "You cannot find yourself by going into the past. You can find yourself by coming into the present.",
     "author": "Eckhart Tolle",
     "authorId": "hx3L0zmPi_k-",
     "tags": ["art"],
@@ -1217,7 +1306,8 @@ const List allquotes = [
   },
   {
     "_id": "yHobP87TA4e-",
-    "content": "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
+    "content":
+        "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
     "author": "Eden Phillpotts",
     "authorId": "ZfAeVZk9nGVs",
     "tags": ["motivational"],
@@ -1225,7 +1315,8 @@ const List allquotes = [
   },
   {
     "_id": "VsOh5dgNHSB",
-    "content": "The winds and waves are always on the side of the ablest navigators.",
+    "content":
+        "The winds and waves are always on the side of the ablest navigators.",
     "author": "Edward Gibbon",
     "authorId": "RdiUD4W2XnVE",
     "tags": ["love"],
@@ -1233,7 +1324,8 @@ const List allquotes = [
   },
   {
     "_id": "7OfzNqtdwbfV",
-    "content": "Every action of our lives touches on some chord that will vibrate in eternity.",
+    "content":
+        "Every action of our lives touches on some chord that will vibrate in eternity.",
     "author": "Edwin Chapin",
     "authorId": "AhtCpuUC9lc-",
     "tags": ["business", "literature", "inspirational"],
@@ -1257,7 +1349,8 @@ const List allquotes = [
   },
   {
     "_id": "KGUo6yg0jIkb",
-    "content": "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+    "content":
+        "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
     "author": "Elbert Hubbard",
     "authorId": "ze15WYZwRRkE",
     "tags": ["business"],
@@ -1281,7 +1374,8 @@ const List allquotes = [
   },
   {
     "_id": "FRsYbqYvcfZ",
-    "content": "The future belongs to those who believe in the beauty of their dreams.",
+    "content":
+        "The future belongs to those who believe in the beauty of their dreams.",
     "author": "Eleanor Roosevelt",
     "authorId": "V1m3UbFSgpfI",
     "tags": ["famous-quotes"],
@@ -1289,7 +1383,8 @@ const List allquotes = [
   },
   {
     "_id": "vWFs7SqFfSmX",
-    "content": "I think somehow we learn who we really are and then live with that decision.",
+    "content":
+        "I think somehow we learn who we really are and then live with that decision.",
     "author": "Eleanor Roosevelt",
     "authorId": "V1m3UbFSgpfI",
     "tags": ["famous-quotes"],
@@ -1297,7 +1392,8 @@ const List allquotes = [
   },
   {
     "_id": "8qCo4Bx1YnTX",
-    "content": "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+    "content":
+        "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
     "author": "Eleanor Roosevelt",
     "authorId": "V1m3UbFSgpfI",
     "tags": ["life"],
@@ -1313,7 +1409,8 @@ const List allquotes = [
   },
   {
     "_id": "XOcTxmn6aH0",
-    "content": "Love doesn't make the world go round, love is what makes the ride worthwhile.",
+    "content":
+        "Love doesn't make the world go round, love is what makes the ride worthwhile.",
     "author": "Elizabeth Browning",
     "authorId": "MLB2-kipNq2h",
     "tags": ["friendship"],
@@ -1361,7 +1458,8 @@ const List allquotes = [
   },
   {
     "_id": "StyiGIcvqHsW",
-    "content": "Practice yourself, for heavens sake in little things, and then proceed to greater.",
+    "content":
+        "Practice yourself, for heavens sake in little things, and then proceed to greater.",
     "author": "Epictetus",
     "authorId": "emmNzvD__S5h",
     "tags": ["religion"],
@@ -1369,7 +1467,8 @@ const List allquotes = [
   },
   {
     "_id": "IR8Q14xIFlDG",
-    "content": "Make the best use of what is in your power, and take the rest as it happens.",
+    "content":
+        "Make the best use of what is in your power, and take the rest as it happens.",
     "author": "Epictetus",
     "authorId": "emmNzvD__S5h",
     "tags": ["social-justice"],
@@ -1377,7 +1476,8 @@ const List allquotes = [
   },
   {
     "_id": "LTf-7dhGhqBJ",
-    "content": "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
+    "content":
+        "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
     "author": "Epictetus",
     "authorId": "emmNzvD__S5h",
     "tags": ["business", "inspirational"],
@@ -1385,7 +1485,8 @@ const List allquotes = [
   },
   {
     "_id": "c0KxcPOZ4OkW",
-    "content": "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
+    "content":
+        "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
     "author": "Everett Dirksen",
     "authorId": "EA_MWKC4jAbe",
     "tags": ["life", "success", "business"],
@@ -1409,7 +1510,8 @@ const List allquotes = [
   },
   {
     "_id": "5_cMZ9dqxw3D",
-    "content": "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
+    "content":
+        "You may be deceived if you trust too much, but you will live in torment if you don't trust enough.",
     "author": "Frank Crane",
     "authorId": "2w_b-7vncKsu",
     "tags": ["business"],
@@ -1417,7 +1519,8 @@ const List allquotes = [
   },
   {
     "_id": "AO3DewJl0PL",
-    "content": "The beginning of knowledge is the discovery of something we do not understand.",
+    "content":
+        "The beginning of knowledge is the discovery of something we do not understand.",
     "author": "Frank Herbert",
     "authorId": "RU9-ePuZu9ig",
     "tags": ["business", "inspirational", "religion"],
@@ -1425,7 +1528,8 @@ const List allquotes = [
   },
   {
     "_id": "3-T_Yi96jY4x",
-    "content": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "content":
+        "The only limit to our realization of tomorrow will be our doubts of today.",
     "author": "Franklin Roosevelt",
     "authorId": "nKvGHxhTyQax",
     "tags": ["famous-quotes"],
@@ -1457,7 +1561,8 @@ const List allquotes = [
   },
   {
     "_id": "DolIKYLT__Wq",
-    "content": "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
+    "content":
+        "Everyone is a genius at least once a year. A real genius has his original ideas closer together.",
     "author": "Georg Lichtenberg",
     "authorId": "xdUMRxx4qdTJ",
     "tags": ["inspirational", "life"],
@@ -1473,7 +1578,8 @@ const List allquotes = [
   },
   {
     "_id": "T4zOhFsWKy88",
-    "content": "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+    "content":
+        "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
     "author": "George Sheehan",
     "authorId": "2O5Rr5jlP7WU",
     "tags": ["social-justice"],
@@ -1505,7 +1611,8 @@ const List allquotes = [
   },
   {
     "_id": "JbFvuwT0LQ55",
-    "content": "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
+    "content":
+        "Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.",
     "author": "Gloria Steinem",
     "authorId": "vt9SIAez_DbH",
     "tags": ["business", "religion", "friendship"],
@@ -1521,7 +1628,8 @@ const List allquotes = [
   },
   {
     "_id": "W-aLbdWOKqzb",
-    "content": "Don't be afraid to go out on a limb. That's where the fruit is.",
+    "content":
+        "Don't be afraid to go out on a limb. That's where the fruit is.",
     "author": "H. Jackson Browne",
     "authorId": "A3qKnzkMXbFd",
     "tags": ["motivational"],
@@ -1529,7 +1637,8 @@ const List allquotes = [
   },
   {
     "_id": "rt4U52HoLvr9",
-    "content": "The worst bankrupt in the world is the person who has lost his enthusiasm.",
+    "content":
+        "The worst bankrupt in the world is the person who has lost his enthusiasm.",
     "author": "H. W. Arnold",
     "authorId": "p7jFMKDFQCeB",
     "tags": ["life", "friendship"],
@@ -1545,7 +1654,8 @@ const List allquotes = [
   },
   {
     "_id": "6QfV1HUr2gbt",
-    "content": "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
+    "content":
+        "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
     "author": "Hannah Arendt",
     "authorId": "fejoCx53eZ63",
     "tags": ["friendship", "literature", "success"],
@@ -1553,7 +1663,8 @@ const List allquotes = [
   },
   {
     "_id": "lgk8h7QutW50",
-    "content": "It is not so important to know everything as to appreciate what we learn.",
+    "content":
+        "It is not so important to know everything as to appreciate what we learn.",
     "author": "Hannah More",
     "authorId": "mQ4PW74eDIIa",
     "tags": ["life", "science", "famous-quotes"],
@@ -1569,7 +1680,8 @@ const List allquotes = [
   },
   {
     "_id": "irMP5o5Qd1mM",
-    "content": "It is on our failures that we base a new and different and better success.",
+    "content":
+        "It is on our failures that we base a new and different and better success.",
     "author": "Havelock Ellis",
     "authorId": "gTThOagQ9LBy",
     "tags": ["social-justice"],
@@ -1593,7 +1705,8 @@ const List allquotes = [
   },
   {
     "_id": "Lv0tws-EuKvH",
-    "content": "Never bend your head. Always hold it high. Look the world right in the eye.",
+    "content":
+        "Never bend your head. Always hold it high. Look the world right in the eye.",
     "author": "Helen Keller",
     "authorId": "1M0HdBtNFji9",
     "tags": ["business", "technology", "social-justice"],
@@ -1601,7 +1714,8 @@ const List allquotes = [
   },
   {
     "_id": "NMVAzYveh41U",
-    "content": "So long as a person is capable of self-renewal they are a living being.",
+    "content":
+        "So long as a person is capable of self-renewal they are a living being.",
     "author": "Henri-Frederic Amiel",
     "authorId": "eUCEFk6DKhcK",
     "tags": ["love"],
@@ -1617,7 +1731,8 @@ const List allquotes = [
   },
   {
     "_id": "C08C72wTge9T",
-    "content": "If you think you can, you can. And if you think you can't, you're right.",
+    "content":
+        "If you think you can, you can. And if you think you can't, you're right.",
     "author": "Henry Ford",
     "authorId": "7MXyM2B2dqEv",
     "tags": ["success"],
@@ -1633,7 +1748,8 @@ const List allquotes = [
   },
   {
     "_id": "t6bMw_va5Ttr",
-    "content": "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
+    "content":
+        "The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.",
     "author": "Henry Miller",
     "authorId": "jQBXpZm5gFxh",
     "tags": ["religion", "technology", "business"],
@@ -1641,7 +1757,8 @@ const List allquotes = [
   },
   {
     "_id": "Ndutu6YfLZjj",
-    "content": "There is no retirement for an artist, it's your way of living so there is no end to it.",
+    "content":
+        "There is no retirement for an artist, it's your way of living so there is no end to it.",
     "author": "Henry Moore",
     "authorId": "rlylSbyIVUKB",
     "tags": ["science", "literature", "business"],
@@ -1649,7 +1766,8 @@ const List allquotes = [
   },
   {
     "_id": "QQd8MYdkwzdj",
-    "content": "Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.",
+    "content":
+        "Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.",
     "author": "Henry Van Dyke",
     "authorId": "OFm2D9pBrYuG",
     "tags": ["religion", "success"],
@@ -1665,7 +1783,8 @@ const List allquotes = [
   },
   {
     "_id": "uBYt260cBB07",
-    "content": "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
+    "content":
+        "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
     "author": "Honore de Balzac",
     "authorId": "hn7Yox5T4Rz7",
     "tags": ["friendship", "life", "love"],
@@ -1673,7 +1792,8 @@ const List allquotes = [
   },
   {
     "_id": "rwjB0wGNY1IF",
-    "content": "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
+    "content":
+        "Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.",
     "author": "Horace",
     "authorId": "5ehYPCMzsbKv",
     "tags": ["success", "famous-quotes"],
@@ -1681,7 +1801,8 @@ const List allquotes = [
   },
   {
     "_id": "vEUFNe4IOoX",
-    "content": "All seasons are beautiful for the person who carries happiness within.",
+    "content":
+        "All seasons are beautiful for the person who carries happiness within.",
     "author": "Horace Friess",
     "authorId": "DXLhYh9XWrxQ",
     "tags": ["technology"],
@@ -1705,7 +1826,8 @@ const List allquotes = [
   },
   {
     "_id": "rPyaNGn57l1t",
-    "content": "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.",
+    "content":
+        "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.",
     "author": "Immanuel Kant",
     "authorId": "oh0qZKrKhGhF",
     "tags": ["friendship", "motivational"],
@@ -1729,7 +1851,8 @@ const List allquotes = [
   },
   {
     "_id": "d9diKQ_kW-9Z",
-    "content": "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
+    "content":
+        "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
     "author": "Isaac Asimov",
     "authorId": "ElE7BtI625fX",
     "tags": ["famous-quotes", "business"],
@@ -1737,7 +1860,8 @@ const List allquotes = [
   },
   {
     "_id": "Mosiy7ZHRJP",
-    "content": "Good timber does not grow with ease; the stronger the wind, the stronger the trees.",
+    "content":
+        "Good timber does not grow with ease; the stronger the wind, the stronger the trees.",
     "author": "J. Willard Marriott",
     "authorId": "6mH16A2Du62J",
     "tags": ["social-justice", "technology"],
@@ -1745,7 +1869,8 @@ const List allquotes = [
   },
   {
     "_id": "s_ZjLy94k3n_",
-    "content": "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.",
+    "content":
+        "Consider how hard it is to change yourself and you'll understand what little chance you have in trying to change others.",
     "author": "Jacob Braude",
     "authorId": "IXRERtBxsV8p",
     "tags": ["art", "motivational"],
@@ -1753,7 +1878,8 @@ const List allquotes = [
   },
   {
     "_id": "m5VSuygGNGcQ",
-    "content": "We never understand how little we need in this world until we know the loss of it.",
+    "content":
+        "We never understand how little we need in this world until we know the loss of it.",
     "author": "James Barrie",
     "authorId": "ksSHh3_z0vuw",
     "tags": ["friendship", "famous-quotes"],
@@ -1761,7 +1887,8 @@ const List allquotes = [
   },
   {
     "_id": "eCroKniF_Fg0",
-    "content": "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
+    "content":
+        "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.",
     "author": "James Freeman Clarke",
     "authorId": "IbsHItce_oPM",
     "tags": ["business"],
@@ -1777,7 +1904,8 @@ const List allquotes = [
   },
   {
     "_id": "gU6XytbECgM6",
-    "content": "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
+    "content":
+        "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.",
     "author": "Jane Addams",
     "authorId": "_D0RHi8bYRC3",
     "tags": ["social-justice"],
@@ -1809,7 +1937,8 @@ const List allquotes = [
   },
   {
     "_id": "VnpDt1xsA9Af",
-    "content": "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
+    "content":
+        "It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.",
     "author": "Jessamyn West",
     "authorId": "wcGFmnlsmF3l",
     "tags": ["science", "religion", "life"],
@@ -1817,7 +1946,8 @@ const List allquotes = [
   },
   {
     "_id": "1rwurwf8CM4x",
-    "content": "Before you put on a frown, make absolutely sure there are no smiles available.",
+    "content":
+        "Before you put on a frown, make absolutely sure there are no smiles available.",
     "author": "Jim Beggs",
     "authorId": "YMHLYEthq9ul",
     "tags": ["famous-quotes", "art"],
@@ -1881,7 +2011,8 @@ const List allquotes = [
   },
   {
     "_id": "j9HH1q_PGUD1",
-    "content": "In the end we retain from our studies only that which we practically apply.",
+    "content":
+        "In the end we retain from our studies only that which we practically apply.",
     "author": "Johann Wolfgang von Goethe",
     "authorId": "0Trc28aC3ZS7",
     "tags": ["inspirational"],
@@ -1889,7 +2020,8 @@ const List allquotes = [
   },
   {
     "_id": "t5jkRvtdaoe-",
-    "content": "The person born with a talent they are meant to use will find their greatest happiness in using it.",
+    "content":
+        "The person born with a talent they are meant to use will find their greatest happiness in using it.",
     "author": "Johann Wolfgang von Goethe",
     "authorId": "0Trc28aC3ZS7",
     "tags": ["literature"],
@@ -1897,7 +2029,8 @@ const List allquotes = [
   },
   {
     "_id": "7gh2rHvQ0B7Y",
-    "content": "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
+    "content":
+        "People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.",
     "author": "Johann Wolfgang von Goethe",
     "authorId": "0Trc28aC3ZS7",
     "tags": ["business", "literature"],
@@ -1905,7 +2038,8 @@ const List allquotes = [
   },
   {
     "_id": "FAmZf2rZYg0S",
-    "content": "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
+    "content":
+        "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
     "author": "Johann Wolfgang von Goethe",
     "authorId": "0Trc28aC3ZS7",
     "tags": ["famous-quotes", "science"],
@@ -1913,7 +2047,8 @@ const List allquotes = [
   },
   {
     "_id": "RsDnCJHB50YA",
-    "content": "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
+    "content":
+        "Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.",
     "author": "John Adams",
     "authorId": "7kIF5-9uNBT_",
     "tags": ["success"],
@@ -1921,7 +2056,8 @@ const List allquotes = [
   },
   {
     "_id": "B-FeVnmjhefC",
-    "content": "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
+    "content":
+        "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
     "author": "John Astin",
     "authorId": "dYTiDXLgz8SY",
     "tags": ["friendship", "religion"],
@@ -1929,7 +2065,8 @@ const List allquotes = [
   },
   {
     "_id": "FZFdOwk52VtM",
-    "content": "The bird of paradise alights only upon the hand that does not grasp.",
+    "content":
+        "The bird of paradise alights only upon the hand that does not grasp.",
     "author": "John Berry",
     "authorId": "ZAaVKKyvtrfi",
     "tags": ["science", "famous-quotes"],
@@ -1937,7 +2074,8 @@ const List allquotes = [
   },
   {
     "_id": "bXhxS_3sC7m8",
-    "content": "Slow down and everything you are chasing will come around and catch you.",
+    "content":
+        "Slow down and everything you are chasing will come around and catch you.",
     "author": "John De Paola",
     "authorId": "X7OD3L4aOcRN",
     "tags": ["life", "science"],
@@ -1953,7 +2091,8 @@ const List allquotes = [
   },
   {
     "_id": "Sfwfrgc1G_t",
-    "content": "All the great performers I have worked with are fuelled by a personal dream.",
+    "content":
+        "All the great performers I have worked with are fuelled by a personal dream.",
     "author": "John Eliot",
     "authorId": "H-APJbG3NYXE",
     "tags": ["success", "business", "life"],
@@ -1985,7 +2124,8 @@ const List allquotes = [
   },
   {
     "_id": "fmi6Tec3tr1f",
-    "content": "Yeah we all shine on, like the moon, and the stars, and the sun.",
+    "content":
+        "Yeah we all shine on, like the moon, and the stars, and the sun.",
     "author": "John Lennon",
     "authorId": "LKRYU3Kc4lWa",
     "tags": ["life", "success"],
@@ -2001,7 +2141,8 @@ const List allquotes = [
   },
   {
     "_id": "BqxOheutEK-N",
-    "content": "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+    "content":
+        "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
     "author": "John Quincy Adams",
     "authorId": "4FSfjyBg3_V5",
     "tags": ["inspirational"],
@@ -2009,7 +2150,8 @@ const List allquotes = [
   },
   {
     "_id": "-NVv8JlmIk71",
-    "content": "Quality is never an accident; it is always the result of intelligent effort.",
+    "content":
+        "Quality is never an accident; it is always the result of intelligent effort.",
     "author": "John Ruskin",
     "authorId": "66cnRagdC8eH",
     "tags": ["religion", "friendship"],
@@ -2025,7 +2167,8 @@ const List allquotes = [
   },
   {
     "_id": "SkAKrY-j-LoK",
-    "content": "You can't let praise or criticism get to you. It's a weakness to get caught up in either one.",
+    "content":
+        "You can't let praise or criticism get to you. It's a weakness to get caught up in either one.",
     "author": "John Wooden",
     "authorId": "c7sN0QRLmYhd",
     "tags": ["social-justice", "success"],
@@ -2065,7 +2208,8 @@ const List allquotes = [
   },
   {
     "_id": "P20TV99RBrIU",
-    "content": "Be what you are. This is the first step toward becoming better than you are.",
+    "content":
+        "Be what you are. This is the first step toward becoming better than you are.",
     "author": "Julius Charles Hare",
     "authorId": "pll1ZrWBKqim",
     "tags": ["science", "art"],
@@ -2073,7 +2217,8 @@ const List allquotes = [
   },
   {
     "_id": "ssxcyoor2cZa",
-    "content": "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+    "content":
+        "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
     "author": "Kahlil Gibran",
     "authorId": "_cDm8mU1vSVY",
     "tags": ["success", "friendship", "life"],
@@ -2089,7 +2234,8 @@ const List allquotes = [
   },
   {
     "_id": "6RJ05FvfMxuQ",
-    "content": "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
+    "content":
+        "All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.",
     "author": "Kathleen Norris",
     "authorId": "0pau_RRl3qub",
     "tags": ["motivational"],
@@ -2097,7 +2243,8 @@ const List allquotes = [
   },
   {
     "_id": "1bfL7jmGAsdQ",
-    "content": "To be upset over what you don't have is to waste what you do have.",
+    "content":
+        "To be upset over what you don't have is to waste what you do have.",
     "author": "Ken S. Keyes",
     "authorId": "huTrY8oQz9kx",
     "tags": ["science"],
@@ -2105,7 +2252,8 @@ const List allquotes = [
   },
   {
     "_id": "m32ReksozfJN",
-    "content": "We learn what we have said from those who listen to our speaking.",
+    "content":
+        "We learn what we have said from those who listen to our speaking.",
     "author": "Kenneth Patton",
     "authorId": "a_gegNvsr5-n",
     "tags": ["art"],
@@ -2177,7 +2325,8 @@ const List allquotes = [
   },
   {
     "_id": "u85exjROopiM",
-    "content": "If you correct your mind, the rest of your life will fall into place.",
+    "content":
+        "If you correct your mind, the rest of your life will fall into place.",
     "author": "Lao Tzu",
     "authorId": "QmHztnGbxPIH",
     "tags": ["literature", "inspirational", "religion"],
@@ -2185,7 +2334,8 @@ const List allquotes = [
   },
   {
     "_id": "dYlmkhl8L17D",
-    "content": "If you would take, you must first give, this is the beginning of intelligence.",
+    "content":
+        "If you would take, you must first give, this is the beginning of intelligence.",
     "author": "Lao Tzu",
     "authorId": "QmHztnGbxPIH",
     "tags": ["motivational", "friendship"],
@@ -2193,7 +2343,8 @@ const List allquotes = [
   },
   {
     "_id": "6Uugl04uxBIW",
-    "content": "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
+    "content":
+        "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
     "author": "Lao Tzu",
     "authorId": "QmHztnGbxPIH",
     "tags": ["friendship"],
@@ -2201,7 +2352,8 @@ const List allquotes = [
   },
   {
     "_id": "95_TgqOOwA6I",
-    "content": "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+    "content":
+        "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
     "author": "Lao Tzu",
     "authorId": "QmHztnGbxPIH",
     "tags": ["love", "friendship"],
@@ -2209,7 +2361,8 @@ const List allquotes = [
   },
   {
     "_id": "q3thvlQysrcm",
-    "content": "At the center of your being you have the answer; you know who you are and you know what you want.",
+    "content":
+        "At the center of your being you have the answer; you know who you are and you know what you want.",
     "author": "Lao Tzu",
     "authorId": "QmHztnGbxPIH",
     "tags": ["friendship", "life", "famous-quotes"],
@@ -2217,7 +2370,8 @@ const List allquotes = [
   },
   {
     "_id": "bJR0ppOlwDKn",
-    "content": "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
+    "content":
+        "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
     "author": "Laozi",
     "authorId": "OSas6_tTEMri",
     "tags": ["art"],
@@ -2241,7 +2395,8 @@ const List allquotes = [
   },
   {
     "_id": "cSnFw1IqevQd",
-    "content": "If you don't know where you are going, you will probably end up somewhere else.",
+    "content":
+        "If you don't know where you are going, you will probably end up somewhere else.",
     "author": "Lawrence Peter",
     "authorId": "38JZDDluCbFe",
     "tags": ["art", "inspirational"],
@@ -2265,7 +2420,8 @@ const List allquotes = [
   },
   {
     "_id": "xhRYMl5qdIUQ",
-    "content": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+    "content":
+        "Everyone thinks of changing the world, but no one thinks of changing himself.",
     "author": "Leo Tolstoy",
     "authorId": "rQsxuQuPrroF",
     "tags": ["art"],
@@ -2273,7 +2429,8 @@ const List allquotes = [
   },
   {
     "_id": "fLT8udflskzl",
-    "content": "The free man is he who does not fear to go to the end of his thought.",
+    "content":
+        "The free man is he who does not fear to go to the end of his thought.",
     "author": "Leon Blum",
     "authorId": "wx6pP0hr4S8n",
     "tags": ["art", "inspirational", "motivational"],
@@ -2281,7 +2438,8 @@ const List allquotes = [
   },
   {
     "_id": "Iv4gv6RrZSmy",
-    "content": "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
+    "content":
+        "The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.",
     "author": "Leonardo Ruiz",
     "authorId": "0eaFq-0hGPxP",
     "tags": ["science"],
@@ -2313,7 +2471,8 @@ const List allquotes = [
   },
   {
     "_id": "4gEoPHe97CIb",
-    "content": "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
+    "content":
+        "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
     "author": "Leonardo da Vinci",
     "authorId": "X8wGMGzcHNpT",
     "tags": ["science", "business"],
@@ -2321,7 +2480,8 @@ const List allquotes = [
   },
   {
     "_id": "Pe-V-4jbTP23",
-    "content": "Shoot for the moon. Even if you miss, you'll land among the stars.",
+    "content":
+        "Shoot for the moon. Even if you miss, you'll land among the stars.",
     "author": "Les Brown",
     "authorId": "60XJUpqeBNZ-",
     "tags": ["friendship"],
@@ -2329,7 +2489,8 @@ const List allquotes = [
   },
   {
     "_id": "dzkqdggZwJL",
-    "content": "To forgive is to set a prisoner free and realize that prisoner was you.",
+    "content":
+        "To forgive is to set a prisoner free and realize that prisoner was you.",
     "author": "Lewis B. Smedes",
     "authorId": "UN0SbmOM4o1q",
     "tags": ["technology"],
@@ -2345,7 +2506,8 @@ const List allquotes = [
   },
   {
     "_id": "xozhycEmIHnV",
-    "content": "I always wanted to be somebody, but I should have been more specific.",
+    "content":
+        "I always wanted to be somebody, but I should have been more specific.",
     "author": "Lily Tomlin",
     "authorId": "fv9imaLxGJPW",
     "tags": ["life"],
@@ -2353,7 +2515,8 @@ const List allquotes = [
   },
   {
     "_id": "Y3YgAN6De_z-",
-    "content": "I have done my best: that is about all the philosophy of living one needs.",
+    "content":
+        "I have done my best: that is about all the philosophy of living one needs.",
     "author": "Lin-yutang",
     "authorId": "HRDOvij10Z47",
     "tags": ["friendship", "technology"],
@@ -2361,7 +2524,8 @@ const List allquotes = [
   },
   {
     "_id": "XDBia68Q0eSX",
-    "content": "Those who try to do something and fail are infinitely better than those who try nothing and succeed.",
+    "content":
+        "Those who try to do something and fail are infinitely better than those who try nothing and succeed.",
     "author": "Lloyd Jones",
     "authorId": "u8X0mWtu7zyp",
     "tags": ["friendship", "religion"],
@@ -2377,7 +2541,8 @@ const List allquotes = [
   },
   {
     "_id": "f2RySyYWcnS1",
-    "content": "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
+    "content":
+        "You were not born a winner, and you were not born a loser. You are what you make yourself be.",
     "author": "Lou Holtz",
     "authorId": "5HiA8GD_674D",
     "tags": ["religion"],
@@ -2385,7 +2550,8 @@ const List allquotes = [
   },
   {
     "_id": "OcLgtwF1Jg7n",
-    "content": "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
+    "content":
+        "Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.",
     "author": "Louis Pasteur",
     "authorId": "tGZOGUqt5jkP",
     "tags": ["life", "success", "motivational"],
@@ -2401,7 +2567,8 @@ const List allquotes = [
   },
   {
     "_id": "aCuulP_LVvJX",
-    "content": "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
+    "content":
+        "The thoughts we choose to think are the tools we use to paint the canvas of our lives.",
     "author": "Louise Hay",
     "authorId": "Y7u1MJVVTsnE",
     "tags": ["science", "famous-quotes"],
@@ -2417,7 +2584,8 @@ const List allquotes = [
   },
   {
     "_id": "voRMtFCYr0_n",
-    "content": "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
+    "content":
+        "Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.",
     "author": "M. Scott Peck",
     "authorId": "Q75kJWaU_UzK",
     "tags": ["science", "famous-quotes", "life"],
@@ -2425,7 +2593,8 @@ const List allquotes = [
   },
   {
     "_id": "6ptITHzUbJk",
-    "content": "Society develops wit, but its contemplation alone forms genius.",
+    "content":
+        "Society develops wit, but its contemplation alone forms genius.",
     "author": "Madame de Stael",
     "authorId": "ADobAH05_g8t",
     "tags": ["science", "famous-quotes", "literature"],
@@ -2441,7 +2610,8 @@ const List allquotes = [
   },
   {
     "_id": "J9wERs1Yck4",
-    "content": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "content":
+        "Strength does not come from physical capacity. It comes from an indomitable will.",
     "author": "Mahatma Gandhi",
     "authorId": "D3ASwh_UBupg",
     "tags": ["famous-quotes", "literature"],
@@ -2449,7 +2619,8 @@ const List allquotes = [
   },
   {
     "_id": "KJObcudQfmh2",
-    "content": "It has never been my object to record my dreams, just to realize them.",
+    "content":
+        "It has never been my object to record my dreams, just to realize them.",
     "author": "Man Ray",
     "authorId": "dq6a86F-yC12",
     "tags": ["art", "literature"],
@@ -2465,7 +2636,8 @@ const List allquotes = [
   },
   {
     "_id": "o09eLJS7b9Op",
-    "content": "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
+    "content":
+        "Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.",
     "author": "Marcel Proust",
     "authorId": "M0vxJPeaOkQ8",
     "tags": ["friendship", "business", "inspirational"],
@@ -2489,7 +2661,8 @@ const List allquotes = [
   },
   {
     "_id": "msV3C5bdO3LC",
-    "content": "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
+    "content":
+        "Everything that happens happens as it should, and if you observe carefully, you will find this to be so.",
     "author": "Marcus Aurelius",
     "authorId": "s5TcliejeOhv",
     "tags": ["friendship"],
@@ -2497,7 +2670,8 @@ const List allquotes = [
   },
   {
     "_id": "wkrVghSG5h02",
-    "content": "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
+    "content":
+        "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
     "author": "Margaret Runbeck",
     "authorId": "tAobZWyiVAB7",
     "tags": ["religion", "love"],
@@ -2513,7 +2687,8 @@ const List allquotes = [
   },
   {
     "_id": "2Os2OH_AIcES",
-    "content": "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
+    "content":
+        "You're not obligated to win. You're obligated to keep trying to do the best you can every day.",
     "author": "Marian Edelman",
     "authorId": "kj4E1U7xsHJH",
     "tags": ["friendship", "literature"],
@@ -2521,7 +2696,8 @@ const List allquotes = [
   },
   {
     "_id": "aWznLt4FAKq",
-    "content": "I never see what has been done; I only see what remains to be done.",
+    "content":
+        "I never see what has been done; I only see what remains to be done.",
     "author": "Marie Curie",
     "authorId": "7FDvPRjZnFWO",
     "tags": ["social-justice", "success"],
@@ -2537,7 +2713,8 @@ const List allquotes = [
   },
   {
     "_id": "lMV4V9Ja3OJI",
-    "content": "A thing long expected takes the form of the unexpected when at last it comes.",
+    "content":
+        "A thing long expected takes the form of the unexpected when at last it comes.",
     "author": "Mark Twain",
     "authorId": "AbtQnVNAhnT0",
     "tags": ["religion", "technology"],
@@ -2545,7 +2722,8 @@ const List allquotes = [
   },
   {
     "_id": "7LSrl7Qysvjf",
-    "content": "Wicked people are always surprised to find ability in those that are good.",
+    "content":
+        "Wicked people are always surprised to find ability in those that are good.",
     "author": "Marquis Vauvenargues",
     "authorId": "HzxzT3LnXBTd",
     "tags": ["life", "art"],
@@ -2553,7 +2731,8 @@ const List allquotes = [
   },
   {
     "_id": "n68mPWwQHNBZ",
-    "content": "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
+    "content":
+        "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
     "author": "Martin Fischer",
     "authorId": "HWczJOKyXYeo",
     "tags": ["social-justice"],
@@ -2561,7 +2740,8 @@ const List allquotes = [
   },
   {
     "_id": "DVFROAJMCut",
-    "content": "Without faith, nothing is possible. With it, nothing is impossible.",
+    "content":
+        "Without faith, nothing is possible. With it, nothing is impossible.",
     "author": "Mary Bethune",
     "authorId": "Rq9jsllfBqVm",
     "tags": ["life"],
@@ -2569,7 +2749,8 @@ const List allquotes = [
   },
   {
     "_id": "_j-nXkyd540d",
-    "content": "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
+    "content":
+        "Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that so it goes on flying anyway.",
     "author": "Mary Kay Ash",
     "authorId": "PPKHFqrlEX48",
     "tags": ["inspirational", "art", "technology"],
@@ -2577,7 +2758,8 @@ const List allquotes = [
   },
   {
     "_id": "CXvFS3FpjfJ3",
-    "content": "The minute you settle for less than you deserve, you get even less than you settled for.",
+    "content":
+        "The minute you settle for less than you deserve, you get even less than you settled for.",
     "author": "Maureen Dowd",
     "authorId": "KTmVLvp2RcQI",
     "tags": ["literature", "friendship"],
@@ -2593,7 +2775,8 @@ const List allquotes = [
   },
   {
     "_id": "Ei5kY3-Wcqcn",
-    "content": "If you don't like something, change it. If you can't change it, change your attitude.",
+    "content":
+        "If you don't like something, change it. If you can't change it, change your attitude.",
     "author": "Maya Angelou",
     "authorId": "LefhKzB0pIKC",
     "tags": ["love", "business"],
@@ -2641,7 +2824,8 @@ const List allquotes = [
   },
   {
     "_id": "-1P5jKYDeqho",
-    "content": "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
+    "content":
+        "If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.",
     "author": "Morris West",
     "authorId": "_yvFMx1Ij-AL",
     "tags": ["science", "famous-quotes", "art"],
@@ -2649,7 +2833,8 @@ const List allquotes = [
   },
   {
     "_id": "qGNxicoKonr2",
-    "content": "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
+    "content":
+        "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
     "author": "Mother Teresa",
     "authorId": "81jHtJXRTDCE",
     "tags": ["literature"],
@@ -2665,7 +2850,8 @@ const List allquotes = [
   },
   {
     "_id": "3SvUjQVjdGb_",
-    "content": "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
+    "content":
+        "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
     "author": "Naguib Mahfouz",
     "authorId": "c5aH_vFJuMVc",
     "tags": ["technology", "life", "social-justice"],
@@ -2761,7 +2947,8 @@ const List allquotes = [
   },
   {
     "_id": "BhuYcFL27-No",
-    "content": "Most great people have attained their greatest success just one step beyond their greatest failure.",
+    "content":
+        "Most great people have attained their greatest success just one step beyond their greatest failure.",
     "author": "Napoleon Hill",
     "authorId": "aVEvYL2vElzl",
     "tags": ["science", "life"],
@@ -2769,7 +2956,8 @@ const List allquotes = [
   },
   {
     "_id": "L8MNGqsrVQAD",
-    "content": "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+    "content":
+        "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
     "author": "Napoleon Hill",
     "authorId": "aVEvYL2vElzl",
     "tags": ["love"],
@@ -2777,7 +2965,8 @@ const List allquotes = [
   },
   {
     "_id": "ouXjL_V5lean",
-    "content": "No man can succeed in a line of endeavor which he does not like.",
+    "content":
+        "No man can succeed in a line of endeavor which he does not like.",
     "author": "Napoleon Hill",
     "authorId": "aVEvYL2vElzl",
     "tags": ["literature"],
@@ -2793,7 +2982,8 @@ const List allquotes = [
   },
   {
     "_id": "fAq_FIJLE7Oh",
-    "content": "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+    "content":
+        "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
     "author": "Napoleon Hill",
     "authorId": "aVEvYL2vElzl",
     "tags": ["business", "technology", "literature"],
@@ -2801,7 +2991,8 @@ const List allquotes = [
   },
   {
     "_id": "VfM976QkRD1R",
-    "content": "Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.",
+    "content":
+        "Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.",
     "author": "Napoleon Hill",
     "authorId": "aVEvYL2vElzl",
     "tags": ["technology", "art", "motivational"],
@@ -2809,7 +3000,8 @@ const List allquotes = [
   },
   {
     "_id": "8jj90loTsXPM",
-    "content": "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+    "content":
+        "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
     "author": "Nelson Mandela",
     "authorId": "gadcWPLuTmsP",
     "tags": ["friendship", "motivational", "religion"],
@@ -2817,7 +3009,8 @@ const List allquotes = [
   },
   {
     "_id": "J6jcn3Hwnyn9",
-    "content": "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
+    "content":
+        "How wonderful that we have met with a paradox. Now we have some hope of making progress.",
     "author": "Niels Bohr",
     "authorId": "H8VEMVuOw5w4",
     "tags": ["social-justice", "science"],
@@ -2825,7 +3018,8 @@ const List allquotes = [
   },
   {
     "_id": "Yzy4qA2PjK6",
-    "content": "By believing passionately in something that does not yet exist, we create it.",
+    "content":
+        "By believing passionately in something that does not yet exist, we create it.",
     "author": "Nikos Kazantzakis",
     "authorId": "ovWXnnBEzxit",
     "tags": ["social-justice", "famous-quotes"],
@@ -2833,7 +3027,8 @@ const List allquotes = [
   },
   {
     "_id": "eqaueNXvH1O",
-    "content": "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
+    "content":
+        "Each misfortune you encounter will carry in it the seed of tomorrows good luck.",
     "author": "Og Mandino",
     "authorId": "ikmvIcjaNBMg",
     "tags": ["life"],
@@ -2841,7 +3036,8 @@ const List allquotes = [
   },
   {
     "_id": "EJy2rB6GraTH",
-    "content": "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
+    "content":
+        "I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.",
     "author": "Og Mandino",
     "authorId": "ikmvIcjaNBMg",
     "tags": ["art", "technology", "business"],
@@ -2849,7 +3045,8 @@ const List allquotes = [
   },
   {
     "_id": "npnGFCnXy5hX",
-    "content": "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
+    "content":
+        "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
     "author": "Og Mandino",
     "authorId": "ikmvIcjaNBMg",
     "tags": ["business", "life", "friendship"],
@@ -2857,7 +3054,8 @@ const List allquotes = [
   },
   {
     "_id": "LPJAOi5MzUYk",
-    "content": "What lies behind us and what lies before us are small matters compared to what lies within us.",
+    "content":
+        "What lies behind us and what lies before us are small matters compared to what lies within us.",
     "author": "Oliver Holmes",
     "authorId": "VhtM1E2sPk8A",
     "tags": ["social-justice", "motivational"],
@@ -2865,7 +3063,8 @@ const List allquotes = [
   },
   {
     "_id": "ce6VM8RjriF",
-    "content": "Follow your instincts. That is where true wisdom manifests itself.",
+    "content":
+        "Follow your instincts. That is where true wisdom manifests itself.",
     "author": "Oprah Winfrey",
     "authorId": "nkmL1jTKjpR4",
     "tags": ["business", "science"],
@@ -2873,7 +3072,8 @@ const List allquotes = [
   },
   {
     "_id": "onnDTNP0qUuk",
-    "content": "I don't believe in failure. It is not failure if you enjoyed the process.",
+    "content":
+        "I don't believe in failure. It is not failure if you enjoyed the process.",
     "author": "Oprah Winfrey",
     "authorId": "nkmL1jTKjpR4",
     "tags": ["friendship", "business"],
@@ -2881,7 +3081,8 @@ const List allquotes = [
   },
   {
     "_id": "LV8-8LST6yE-",
-    "content": "If you want your life to be more rewarding, you have to change the way you think.",
+    "content":
+        "If you want your life to be more rewarding, you have to change the way you think.",
     "author": "Oprah Winfrey",
     "authorId": "nkmL1jTKjpR4",
     "tags": ["art", "literature", "life"],
@@ -2897,7 +3098,8 @@ const List allquotes = [
   },
   {
     "_id": "33l_WXGiFdY4",
-    "content": "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
+    "content":
+        "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
     "author": "Oscar Wilde",
     "authorId": "kN1-qdt31cKr",
     "tags": ["business", "inspirational"],
@@ -2921,7 +3123,8 @@ const List allquotes = [
   },
   {
     "_id": "-LAmz-rtcIVa",
-    "content": "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
+    "content":
+        "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.",
     "author": "Ovid",
     "authorId": "vJWLh96GrpNF",
     "tags": ["art", "motivational"],
@@ -2969,7 +3172,8 @@ const List allquotes = [
   },
   {
     "_id": "Owh9tKCWbRnm",
-    "content": "The truth you believe and cling to makes you unavailable to hear anything new.",
+    "content":
+        "The truth you believe and cling to makes you unavailable to hear anything new.",
     "author": "Pema Chodron",
     "authorId": "4APkQcbYkSL-",
     "tags": ["social-justice"],
@@ -2985,7 +3189,8 @@ const List allquotes = [
   },
   {
     "_id": "64e3JkGbTSg",
-    "content": "Efficiency is doing things right; effectiveness is doing the right things.",
+    "content":
+        "Efficiency is doing things right; effectiveness is doing the right things.",
     "author": "Peter Drucker",
     "authorId": "UCrX8DUYHz8Q",
     "tags": ["success", "social-justice"],
@@ -3001,7 +3206,8 @@ const List allquotes = [
   },
   {
     "_id": "tye5Pl5chpCL",
-    "content": "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.",
+    "content":
+        "Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.",
     "author": "Plato",
     "authorId": "M5Zw5dkdxqPh",
     "tags": ["art", "motivational"],
@@ -3105,7 +3311,8 @@ const List allquotes = [
   },
   {
     "_id": "cnH_uxiNIc38",
-    "content": "Life is a succession of lessons, which must be lived to be understood.",
+    "content":
+        "Life is a succession of lessons, which must be lived to be understood.",
     "author": "Ralph Emerson",
     "authorId": "X012DjhscXes",
     "tags": ["religion"],
@@ -3113,7 +3320,8 @@ const List allquotes = [
   },
   {
     "_id": "zNkMCsnOSrDP",
-    "content": "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
+    "content":
+        "Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.",
     "author": "Ralph Emerson",
     "authorId": "X012DjhscXes",
     "tags": ["friendship"],
@@ -3121,7 +3329,8 @@ const List allquotes = [
   },
   {
     "_id": "2acT6u8tcHC4",
-    "content": "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+    "content":
+        "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
     "author": "Ralph Emerson",
     "authorId": "X012DjhscXes",
     "tags": ["life", "love", "technology"],
@@ -3129,7 +3338,8 @@ const List allquotes = [
   },
   {
     "_id": "QVZLg9AQt4He",
-    "content": "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
+    "content":
+        "If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.",
     "author": "Ralph Emerson",
     "authorId": "X012DjhscXes",
     "tags": ["science", "inspirational", "art"],
@@ -3145,7 +3355,8 @@ const List allquotes = [
   },
   {
     "_id": "wQZ5jXgh3Dgh",
-    "content": "It is only when the mind and character slumber that the dress can be seen.",
+    "content":
+        "It is only when the mind and character slumber that the dress can be seen.",
     "author": "Ralph Waldo Emerson",
     "authorId": "6m2euBGNsS7P",
     "tags": ["success", "technology"],
@@ -3177,7 +3388,8 @@ const List allquotes = [
   },
   {
     "_id": "CAhQU1UxJEG",
-    "content": "To bring anything into your life, imagine that it's already there.",
+    "content":
+        "To bring anything into your life, imagine that it's already there.",
     "author": "Richard Bach",
     "authorId": "RiAOET1DtMlL",
     "tags": ["technology"],
@@ -3209,7 +3421,8 @@ const List allquotes = [
   },
   {
     "_id": "czgEnftR0D9s",
-    "content": "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.",
+    "content":
+        "In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.",
     "author": "Richard Bach",
     "authorId": "RiAOET1DtMlL",
     "tags": ["love", "religion", "life"],
@@ -3217,7 +3430,8 @@ const List allquotes = [
   },
   {
     "_id": "TubxpATqxx0L",
-    "content": "You are always free to change your mind and choose a different future, or a different past.",
+    "content":
+        "You are always free to change your mind and choose a different future, or a different past.",
     "author": "Richard Bach",
     "authorId": "RiAOET1DtMlL",
     "tags": ["famous-quotes", "science", "inspirational"],
@@ -3233,7 +3447,8 @@ const List allquotes = [
   },
   {
     "_id": "FofPK_xetHYm",
-    "content": "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
+    "content":
+        "Forget about all the reasons why something may not work. You only need to find one good reason why it will.",
     "author": "Robert Anthony",
     "authorId": "XF3ZKvSFJ395",
     "tags": ["art", "success", "friendship"],
@@ -3249,7 +3464,8 @@ const List allquotes = [
   },
   {
     "_id": "rwi8ndujkArV",
-    "content": "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
+    "content":
+        "Peace is not something you wish for. It's something you make, something you do, something you are, and something you give away.",
     "author": "Robert Fulghum",
     "authorId": "DJajrrpcVNbx",
     "tags": ["life", "famous-quotes", "technology"],
@@ -3257,7 +3473,8 @@ const List allquotes = [
   },
   {
     "_id": "rcBAEwQnbIa",
-    "content": "Never ignore a gut feeling, but never believe that it's enough.",
+    "content":
+        "Never ignore a gut feeling, but never believe that it's enough.",
     "author": "Robert Heller",
     "authorId": "wbr8fddDzgyO",
     "tags": ["art", "love", "friendship"],
@@ -3265,7 +3482,8 @@ const List allquotes = [
   },
   {
     "_id": "swd0SPLKp5ry",
-    "content": "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.",
+    "content":
+        "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.",
     "author": "Robert Lynd",
     "authorId": "bAwPnfJGFjKZ",
     "tags": ["religion"],
@@ -3273,7 +3491,8 @@ const List allquotes = [
   },
   {
     "_id": "AlqdJrjWspyw",
-    "content": "The reason most goals are not achieved is that we spend our time doing second things first.",
+    "content":
+        "The reason most goals are not achieved is that we spend our time doing second things first.",
     "author": "Robert McKain",
     "authorId": "oAuK6sfe2qnx",
     "tags": ["friendship", "business", "inspirational"],
@@ -3281,7 +3500,8 @@ const List allquotes = [
   },
   {
     "_id": "6eiXR_QfvyKC",
-    "content": "Don't judge each day by the harvest you reap but by the seeds you plant.",
+    "content":
+        "Don't judge each day by the harvest you reap but by the seeds you plant.",
     "author": "Robert Stevenson",
     "authorId": "YHnUYO31sl2N",
     "tags": ["technology"],
@@ -3289,7 +3509,8 @@ const List allquotes = [
   },
   {
     "_id": "M-xNRaDSg6OE",
-    "content": "To be what we are, and to become what we are capable of becoming, is the only end of life.",
+    "content":
+        "To be what we are, and to become what we are capable of becoming, is the only end of life.",
     "author": "Robert Stevenson",
     "authorId": "YHnUYO31sl2N",
     "tags": ["science"],
@@ -3297,7 +3518,8 @@ const List allquotes = [
   },
   {
     "_id": "nhEEAl8CeGxq",
-    "content": "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.",
+    "content":
+        "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.",
     "author": "Rumi",
     "authorId": "X3L9x_3LjyR6",
     "tags": ["motivational", "religion"],
@@ -3305,7 +3527,8 @@ const List allquotes = [
   },
   {
     "_id": "fL2ghWcz8tVd",
-    "content": "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
+    "content":
+        "What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.",
     "author": "Sai Baba",
     "authorId": "5nh_rwy7SDs3",
     "tags": ["success", "success"],
@@ -3321,7 +3544,8 @@ const List allquotes = [
   },
   {
     "_id": "WuumkQUtqWLY",
-    "content": "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
+    "content":
+        "We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.",
     "author": "Sam Keen",
     "authorId": "sNkgypC4xIgf",
     "tags": ["famous-quotes", "social-justice"],
@@ -3361,7 +3585,8 @@ const List allquotes = [
   },
   {
     "_id": "oHAa6AYa4nMy",
-    "content": "Begin at once to live and count each separate day as a separate life.",
+    "content":
+        "Begin at once to live and count each separate day as a separate life.",
     "author": "Seneca",
     "authorId": "a3psDzXaIA8U",
     "tags": ["business", "social-justice", "famous-quotes"],
@@ -3369,7 +3594,8 @@ const List allquotes = [
   },
   {
     "_id": "6ljgzGuZHlYG",
-    "content": "If one does not know to which port is sailing, no wind is favorable.",
+    "content":
+        "If one does not know to which port is sailing, no wind is favorable.",
     "author": "Seneca",
     "authorId": "a3psDzXaIA8U",
     "tags": ["business"],
@@ -3385,7 +3611,8 @@ const List allquotes = [
   },
   {
     "_id": "ALy3aV401PgO",
-    "content": "The most complicated achievements of thought are possible without the assistance of consciousness.",
+    "content":
+        "The most complicated achievements of thought are possible without the assistance of consciousness.",
     "author": "Sigmund Freud",
     "authorId": "g9qpk2c4BZbs",
     "tags": ["life", "business", "technology"],
@@ -3409,7 +3636,8 @@ const List allquotes = [
   },
   {
     "_id": "Y2v8ONlWg6m4",
-    "content": "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
+    "content":
+        "We must never forget that it is through our actions, words, and thoughts that we have a choice.",
     "author": "Sogyal Rinpoche",
     "authorId": "xEb-sLpVyp5J",
     "tags": ["motivational"],
@@ -3449,7 +3677,8 @@ const List allquotes = [
   },
   {
     "_id": "eMsPp25ubiIv",
-    "content": "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
+    "content":
+        "Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.",
     "author": "Sri Chinmoy",
     "authorId": "zgK0NxX-hOUf",
     "tags": ["friendship", "love"],
@@ -3457,7 +3686,8 @@ const List allquotes = [
   },
   {
     "_id": "kkYnNDyEQJ8j",
-    "content": "Better to have loved and lost, than to have never loved at all.",
+    "content":
+        "Better to have loved and lost, than to have never loved at all.",
     "author": "St. Augustine",
     "authorId": "zJ7SVLHlASn4",
     "tags": ["success"],
@@ -3465,7 +3695,8 @@ const List allquotes = [
   },
   {
     "_id": "Equ-9uVXsHxx",
-    "content": "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
+    "content":
+        "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
     "author": "Sue Patton Thoele",
     "authorId": "SljpOyUW4rwo",
     "tags": ["famous-quotes", "literature", "science"],
@@ -3513,7 +3744,8 @@ const List allquotes = [
   },
   {
     "_id": "0e-pHqU9-h5",
-    "content": "May our hearts garden of awakening bloom with hundreds of flowers.",
+    "content":
+        "May our hearts garden of awakening bloom with hundreds of flowers.",
     "author": "Thich Nhat Hanh",
     "authorId": "oup3oDncMUQC",
     "tags": ["religion", "technology"],
@@ -3521,7 +3753,8 @@ const List allquotes = [
   },
   {
     "_id": "H56ODixdFc8K",
-    "content": "To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.",
+    "content":
+        "To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.",
     "author": "Thich Nhat Hanh",
     "authorId": "oup3oDncMUQC",
     "tags": ["life"],
@@ -3529,7 +3762,8 @@ const List allquotes = [
   },
   {
     "_id": "VeNP14tgXV5F",
-    "content": "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
+    "content":
+        "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
     "author": "Thomas Carlyle",
     "authorId": "rocarEi3ed_w",
     "tags": ["business", "love"],
@@ -3545,7 +3779,8 @@ const List allquotes = [
   },
   {
     "_id": "9qxwPBpVh",
-    "content": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    "content":
+        "Genius is one percent inspiration and ninety-nine percent perspiration.",
     "author": "Thomas Edison",
     "authorId": "4_p7I2LyRxjT",
     "tags": ["social-justice", "success"],
@@ -3553,7 +3788,8 @@ const List allquotes = [
   },
   {
     "_id": "MLJoQTtSoyI4",
-    "content": "If we did the things we are capable of, we would astound ourselves.",
+    "content":
+        "If we did the things we are capable of, we would astound ourselves.",
     "author": "Thomas Edison",
     "authorId": "4_p7I2LyRxjT",
     "tags": ["technology"],
@@ -3561,7 +3797,8 @@ const List allquotes = [
   },
   {
     "_id": "uw5ZzEYh4Qck",
-    "content": "Opportunity is missed by most because it is dressed in overalls and looks like work.",
+    "content":
+        "Opportunity is missed by most because it is dressed in overalls and looks like work.",
     "author": "Thomas Edison",
     "authorId": "4_p7I2LyRxjT",
     "tags": ["success"],
@@ -3577,7 +3814,8 @@ const List allquotes = [
   },
   {
     "_id": "JdabrCwnZLEm",
-    "content": "Time changes everything except something within us which is always surprised by change.",
+    "content":
+        "Time changes everything except something within us which is always surprised by change.",
     "author": "Thomas Hardy",
     "authorId": "W4K_V6JmS2pq",
     "tags": ["life", "social-justice", "love"],
@@ -3593,7 +3831,8 @@ const List allquotes = [
   },
   {
     "_id": "dQdO8lGOyLYn",
-    "content": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
+    "content":
+        "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
     "author": "Thomas Jefferson",
     "authorId": "CAC2Tc96r894",
     "tags": ["life", "technology"],
@@ -3601,7 +3840,8 @@ const List allquotes = [
   },
   {
     "_id": "HtwSqm2T92Ou",
-    "content": "I'm a great believer in luck and I find the harder I work, the more I have of it.",
+    "content":
+        "I'm a great believer in luck and I find the harder I work, the more I have of it.",
     "author": "Thomas Jefferson",
     "authorId": "CAC2Tc96r894",
     "tags": ["literature"],
@@ -3609,7 +3849,8 @@ const List allquotes = [
   },
   {
     "_id": "YjuYdnV95jPF",
-    "content": "Life is like a sewer. What you get out of it depends on what you put into it.",
+    "content":
+        "Life is like a sewer. What you get out of it depends on what you put into it.",
     "author": "Tom Lehrer",
     "authorId": "I9A9AFVSA5ic",
     "tags": ["success", "art", "social-justice"],
@@ -3641,7 +3882,8 @@ const List allquotes = [
   },
   {
     "_id": "ZaBtqdFxqlQR",
-    "content": "Successful people ask better questions, and as a result, they get better answers.",
+    "content":
+        "Successful people ask better questions, and as a result, they get better answers.",
     "author": "Tony Robbins",
     "authorId": "Jb0BAHiLfV_V",
     "tags": ["life"],
@@ -3681,7 +3923,8 @@ const List allquotes = [
   },
   {
     "_id": "KO1Ei5T99frf",
-    "content": "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.",
+    "content":
+        "If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.",
     "author": "Vince Lombardi",
     "authorId": "jKuulMVmwXLK",
     "tags": ["famous-quotes"],
@@ -3697,7 +3940,8 @@ const List allquotes = [
   },
   {
     "_id": "SzkV-Zogd1Rt",
-    "content": "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
+    "content":
+        "Snowflakes are one of natures most fragile things, but just look what they can do when they stick together.",
     "author": "Vista Kelly",
     "authorId": "6Q7mdql32TEK",
     "tags": ["life", "technology"],
@@ -3721,7 +3965,8 @@ const List allquotes = [
   },
   {
     "_id": "_tkkMeShTC-C",
-    "content": "Think for yourselves and let others enjoy the privilege to do so too.",
+    "content":
+        "Think for yourselves and let others enjoy the privilege to do so too.",
     "author": "Voltaire",
     "authorId": "GBdcGpgbeHpx",
     "tags": ["life", "inspirational"],
@@ -3729,7 +3974,8 @@ const List allquotes = [
   },
   {
     "_id": "R86gtjYhHV-F",
-    "content": "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
+    "content":
+        "No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto.",
     "author": "W. Clement Stone",
     "authorId": "kzuHoUYRt591",
     "tags": ["love", "motivational"],
@@ -3745,7 +3991,8 @@ const List allquotes = [
   },
   {
     "_id": "dS2T1REDYBAP",
-    "content": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "content":
+        "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
     "author": "Walt Emerson",
     "authorId": "0gR0K7WhANLo",
     "tags": ["business"],
@@ -3753,7 +4000,8 @@ const List allquotes = [
   },
   {
     "_id": "gw-5q2t-Y8JB",
-    "content": "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
+    "content":
+        "Ideals are an imaginative understanding of that which is desirable in that which is possible.",
     "author": "Walter Lippmann",
     "authorId": "sfBz7_hzeqWC",
     "tags": ["science", "famous-quotes"],
@@ -3761,7 +4009,8 @@ const List allquotes = [
   },
   {
     "_id": "6-ShZmLKHrsD",
-    "content": "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
+    "content":
+        "Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.",
     "author": "Washington Irving",
     "authorId": "cIfgT6dr81lz",
     "tags": ["social-justice", "friendship", "literature"],
@@ -3777,7 +4026,8 @@ const List allquotes = [
   },
   {
     "_id": "aNSOQIftxFH",
-    "content": "Real magic in relationships means an absence of judgement of others.",
+    "content":
+        "Real magic in relationships means an absence of judgement of others.",
     "author": "Wayne Dyer",
     "authorId": "wCL1o8Bc_1KQ",
     "tags": ["love", "technology"],
@@ -3809,7 +4059,8 @@ const List allquotes = [
   },
   {
     "_id": "IxkTNgRbogR4",
-    "content": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
+    "content":
+        "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
     "author": "Wayne Dyer",
     "authorId": "wCL1o8Bc_1KQ",
     "tags": ["social-justice"],
@@ -3817,7 +4068,8 @@ const List allquotes = [
   },
   {
     "_id": "hHhXSk4l4ahJ",
-    "content": "If you change the way you look at things, the things you look at change.",
+    "content":
+        "If you change the way you look at things, the things you look at change.",
     "author": "Wayne Dyer",
     "authorId": "wCL1o8Bc_1KQ",
     "tags": ["technology", "life", "art"],
@@ -3825,7 +4077,8 @@ const List allquotes = [
   },
   {
     "_id": "UOEM1eVmR8kM",
-    "content": "You are important enough to ask and you are blessed enough to receive back.",
+    "content":
+        "You are important enough to ask and you are blessed enough to receive back.",
     "author": "Wayne Dyer",
     "authorId": "wCL1o8Bc_1KQ",
     "tags": ["art", "life", "motivational"],
@@ -3833,7 +4086,8 @@ const List allquotes = [
   },
   {
     "_id": "D3DJdtseyUlY",
-    "content": "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+    "content":
+        "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
     "author": "Wayne Dyer",
     "authorId": "wCL1o8Bc_1KQ",
     "tags": ["social-justice", "art"],
@@ -3857,7 +4111,8 @@ const List allquotes = [
   },
   {
     "_id": "f0LhV2PNKhgH",
-    "content": "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
+    "content":
+        "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
     "author": "William Penn",
     "authorId": "tS3qf7ExkHsx",
     "tags": ["love", "art", "motivational"],
@@ -3873,7 +4128,8 @@ const List allquotes = [
   },
   {
     "_id": "igqu2k4xdUcN",
-    "content": "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
+    "content":
+        "Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.",
     "author": "William Saroyan",
     "authorId": "kfnXgbVT-DtE",
     "tags": ["inspirational"],
@@ -3921,7 +4177,8 @@ const List allquotes = [
   },
   {
     "_id": "uF2YWuPCLq-g",
-    "content": "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
+    "content":
+        "Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.",
     "author": "William Shakespeare",
     "authorId": "FIiEtzPLTwZk",
     "tags": ["love", "inspirational"],
@@ -3929,7 +4186,8 @@ const List allquotes = [
   },
   {
     "_id": "7n3GwXTfQ8BQ",
-    "content": "Think as a wise man but communicate in the language of the people.",
+    "content":
+        "Think as a wise man but communicate in the language of the people.",
     "author": "William Yeats",
     "authorId": "AtrUSaZRWtrp",
     "tags": ["love"],
@@ -3937,7 +4195,8 @@ const List allquotes = [
   },
   {
     "_id": "SINBUwDBOJz",
-    "content": "Courage is going from failure to failure without losing enthusiasm.",
+    "content":
+        "Courage is going from failure to failure without losing enthusiasm.",
     "author": "Winston Churchill",
     "authorId": "UT7iB1vgq-3n",
     "tags": ["motivational"],
@@ -3945,7 +4204,8 @@ const List allquotes = [
   },
   {
     "_id": "RTy8APRQ5fjL",
-    "content": "Short words are best and the old words when short are best of all.",
+    "content":
+        "Short words are best and the old words when short are best of all.",
     "author": "Winston Churchill",
     "authorId": "UT7iB1vgq-3n",
     "tags": ["science", "art", "business"],
@@ -3953,7 +4213,8 @@ const List allquotes = [
   },
   {
     "_id": "Ueih54lR8bBc",
-    "content": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+    "content":
+        "You have enemies? Good. That means you've stood up for something, sometime in your life.",
     "author": "Winston Churchill",
     "authorId": "UT7iB1vgq-3n",
     "tags": ["business"],
@@ -3993,7 +4254,8 @@ const List allquotes = [
   },
   {
     "_id": "lpkPkislybDn",
-    "content": "You got to be careful if you don't know where you're going, because you might not get there.",
+    "content":
+        "You got to be careful if you don't know where you're going, because you might not get there.",
     "author": "Yogi Berra",
     "authorId": "hmqWVhS3Fcxl",
     "tags": ["famous-quotes"],
@@ -4001,7 +4263,8 @@ const List allquotes = [
   },
   {
     "_id": "ZY1Lsma8",
-    "content": "Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom.",
+    "content":
+        "Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom.",
     "author": "Buddha",
     "authorId": "x0Lc5KMtD7et",
     "tags": [],
