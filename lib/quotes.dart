@@ -1,26 +1,39 @@
 library quotes;
+import 'dart:math';
 import 'package:quotes/quote_model.dart';
 import 'package:flutter/material.dart';
+import 'package:quotes/src/quotes.dart';
 
-class Quotes extends StatelessWidget {
+class Quotes extends StatefulWidget {
 
-  final List<Quote> s;
-  
-  Quotes({this.s});
-
-
-   String getFirst()
+  static int _getRandomIndex()
   {
-      return s[0].getAuthorId();
+    return new Random.secure().nextInt(allquotes.length);
   }
-   String getLast()
+
+  static Quote getFirst()
   {
-      return s[s.length-1].getContent();
+    return new Quote.fromJson(allquotes[0]);
   }
+
+  static Quote getLast()
+  {
+      return   new Quote.fromJson(allquotes[allquotes.length-1]);
+  }
+
+  static Quote getRandom()
+  {
+    return new Quote.fromJson(allquotes[_getRandomIndex()]);
+  }
+
+  @override
+  _QuotesState createState() => _QuotesState();
+}
+
+class _QuotesState extends State<Quotes> {
+
   @override
   Widget build(BuildContext context) {
-   
-
     return MaterialApp(
       title: 'Quotes Flutter Package',
       home: Scaffold(

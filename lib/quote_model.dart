@@ -4,21 +4,18 @@ class Quote {
   String content;
   String author;
   String authorId;
-  List<String> tags;
+  List tags;
   int length;
 
-  Quote({this.id,this.content,this.author,this.authorId,this.tags,this.length});
+ Quote({this.id,this.content,this.author,this.authorId,this.tags,this.length});
+ Quote.fromJson(Map json)
+      : content = json['content'],
+        id=json['_id'],
+         author=json['author'],
+          authorId=json['authorId'],
+           tags=json['tags'],
+            length=json['length'];
 
-  factory Quote.fromJson(Map<String, dynamic> json) {
-      return new Quote(
-         id: json['_id'].toString(),
-         content:json['content'],
-         author:json['author'],
-         authorId:json['authorId'],
-         tags: json['tags'],
-         length: json['length']
-      );
-   }
 
   String getId() { 
     return id;
