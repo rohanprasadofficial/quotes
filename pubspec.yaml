@@ -1,7 +1,7 @@
 name: quotes
 description: Utilities for working with quotes like Motivations,Entrepreneurial, Loves etc. and provides access to the top 500 English quotes as of now.
 version: 0.0.1
-author: Rohan Prasad <rohanpd.work@gmail.com>
+# author: Rohan Prasad<rohanpd.work@gmail.com>
 homepage: https://github.com/rohanprasadofficial/quotes
 
 environment:
