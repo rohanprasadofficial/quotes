@@ -14,13 +14,13 @@ class Quotes extends StatefulWidget {
   //Returns first quote
 
   static Quote getFirst() {
-    return new Quote.fromJson(allquotes[0]);
+    return new Quote.fromJson(allquotes.first);
   }
 
   //Returns last quote
 
   static Quote getLast() {
-    return new Quote.fromJson(allquotes[allquotes.length - 1]);
+    return new Quote.fromJson(allquotes.last);
   }
 
   //Returns random quote
