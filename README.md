@@ -80,7 +80,7 @@ class MyApp extends StatelessWidget {
 ```
 # Pull Requests
 
-I'm open to anyone opening a PR, I will definitely take a look at any PR's that are opened.
+I'm open to anyone submitting a PR, I will definitely take a look at any PR's that are opened.
 
 Two things to PR on:
 
