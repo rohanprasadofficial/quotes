@@ -87,7 +87,7 @@ Two things to PR on:
 1. Adding more quotes to the library
    - For this you can add file(s) `new_quotes.json` in the `data` folder. I will give it a review, and then add it to the main files.
 2. Technical Addition
-   - Including various other functionality like fetching the top authors and fetching more quotes from the same author.
+   - Including various new functionality like fetching the top authors and fetching more quotes from the same author.
 
 
 ### Created & Maintained By
