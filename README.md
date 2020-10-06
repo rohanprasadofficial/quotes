@@ -7,14 +7,14 @@
 
 # quotes
 
-Utility for working with quotes like motivational, entrepreneurial , love etc. and provides access to the top 500 English quotes as of now.
+Flutter package which grants access to the top 500 English quotes. These quotes range from being: motivational, entrepreneurial, and inspirational.
 
 
 ## Usage
 
 [Example](https://github.com/rohanprasadofficial/quotes/blob/master/example/lib/main.dart)
 
-To use this package :
+To use this package:
 
 * Add the dependency to your [pubspec.yaml](https://github.com/rohanprasadofficial/quotes/blob/master/pubspec.yaml) file.
 
@@ -76,19 +76,18 @@ class MyApp extends StatelessWidget {
 
 
   
-  
  
 ```
 # Pull Requests
 
-Every PRs are welcome , i will definitely look into and accept it.
+I'm open to anyone opening a PR, I will definitely take a look at any PR's that are opened.
 
 Two things to PR on:
 
 1. Adding more quotes to the library
-   - For this you can add a files new_quotes.json in the data folder , i will review it and add it to main files.
+   - For this you can add file(s) `new_quotes.json` in the `data` folder. I will give it a review, and then add it to the main files.
 2. Technical Addition
-   - Can includes various other functions code like top authors , more written quotes author etc..
+   - Including various other functionality like fetching the top authors and fetching more quotes from the same author.
 
 
 ### Created & Maintained By
