@@ -1,11 +1,11 @@
 class Quote {
   // Various properties of a Quote
-  String id;
-  String content;
-  String author;
-  String authorId;
-  List tags;
-  int length;
+  String? id;
+  String? content;
+  String? author;
+  String? authorId;
+  List? tags;
+  int? length;
 
   Quote(
       {this.id,
@@ -25,37 +25,37 @@ class Quote {
         length = json['length'];
 
   //Returns Id of the quote
-  String getId() {
+  String? getId() {
     return id;
   }
 
   //Returns Content of the quote
 
-  String getContent() {
+  String? getContent() {
     return content;
   }
 
   //Returns Author of the quote
 
-  String getAuthor() {
+  String? getAuthor() {
     return author;
   }
 
   //Returns Authors ID of the quote
 
-  String getAuthorId() {
+  String? getAuthorId() {
     return authorId;
   }
 
   //Returns list of tag of the quote
 
-  List getTags() {
+  List? getTags() {
     return tags;
   }
 
   //Returns the length of the quote,no of alphabets
 
-  int getLength() {
+  int? getLength() {
     return length;
   }
 }
